@@ -1,0 +1,14 @@
+{
+    "welcome": {
+        "translation": "Welcome",
+        "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    "welcome_team": {
+        "translation": "Welcome to our team",
+        "notes": ""
+    },
+    "welcome_aboard": {
+        "translation": "Ladies and gentlemen welcome aboard.",
+        "notes": ""
+    }
+}

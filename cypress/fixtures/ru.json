@@ -1,0 +1,14 @@
+{
+    "welcome": {
+        "translation": "Добро пожаловать",
+        "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    "welcome_team": {
+        "translation": "",
+        "notes": ""
+    },
+    "welcome_aboard": {
+        "translation": "",
+        "notes": ""
+    }
+}
